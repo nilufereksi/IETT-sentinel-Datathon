@@ -1,0 +1,6 @@
+data/
+*.csv
+*.pkl
+__pycache__/
+.streamlit/secrets.toml
+*.pyc
