@@ -1,5 +1,7 @@
 # 🚨 İETT SENTINEL — Akıllı Kriz Öngörü Sistemi
 
+![20260413-1003-24 6423007-ezgif com-speed](https://github.com/user-attachments/assets/4df31e55-ef5e-47d2-b7f9-3f8b3509c1b3)
+
 > İstanbul toplu ulaşımında arıza olmadan önce tahmin et — kriz yayılmadan önce önle.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
