@@ -131,4 +131,4 @@ sentinel/
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+Bu proje [GPL-3.0](LICENSE) ile lisanslanmıştır.
